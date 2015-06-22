@@ -54,8 +54,11 @@
                         <a href="#services">Services</a>
                     </li>
                     <li>
-                        <a href="#contact">Contact</a>
+                        <a href="#client">Clients</a>
                     </li>
+                    <li>
+                        <a href="#contact">Contact</a>
+                   </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -65,7 +68,6 @@
 
 
     <!-- Header -->
-	<a  name="about"></a>
     <div class="intro-header">
         <div class="container">
 
@@ -101,7 +103,7 @@
 
     <!-- Page Content -->
 
-	<a  name="services"></a>
+	<a  name="about"></a>
     <div class="content-section-a">
 
         <div class="container">
@@ -122,8 +124,10 @@
                     <span>mauvais danseur.</span>
 				</div>
                 </div>
-                	<span>Travailleur indépendant dans les starting block, je suis à votre écoute.</span>
+                </br />
+                	<span>Travailleur indépendant dans les startings blocks, je suis à votre écoute.</span>
                 <br/>
+                <br />
                		<span>Je reste pour vous</span>
            		<div class="rw-words rw-words-2">
             		<span>disponible.</span>
@@ -143,7 +147,7 @@
 
     </div>
     <!-- /.content-section-a -->
-
+	<a name="services"></a>
     <div class="content-section-b">
 
         <div class="container">
@@ -158,7 +162,7 @@
                         <li>Gestion de site Web</li>
                         <li>Assistance aux utilisateurs</li>
                     </ul>
-                    <p class="lead">Fort d'une expérience de 4 années dans le Community Management, je propose aussi un service de gestion de pages sur les principaux réseaux sociaux</p>                  
+                    <p class="lead">Fort d'une <a href="#CM">expérience</a> de 2 années dans le Community Management, je propose aussi un service de gestion de pages sur les principaux réseaux sociaux</p>                  
                     
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -171,7 +175,8 @@
 
     </div>
     <!-- /.content-section-b -->
-
+    <a name="client"></a>
+    <a name="CM"></a>
     <div class="content-section-a">
 
         <div class="container">
@@ -180,15 +185,15 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Contact</h2>
-                    <p class="lead">Disponible aussi bien sur les réseaux sociaux que par mail et par téléphone.</p>
-                    <br />
-                   Adresse Mail : <a href="mailto:tom.dufosse.michelangeli@gmail.com">tom.dufosse.michelangeli@gmail.com</a>
-                    <br />
-                  Téléhpone : <a href="callto:0632899791">+33 (0) 6 32 89 97 91</a>
+                    <h2 class="section-heading">Clients</h2>
+                    <p class="lead">De tous les horizons, de tous les milieux.</p>
+                    <ul class="lead">
+                    	<li><a href="http://dayzrp.free.fr" target="new" title="DayZRP">DayZ RP</a> - Création Web & Design</li>
+                        <li>Altis RP <a href="https://www.facebook.com/altislife?ref=aymt_homepage_panel" target="new" title"AltisRP"> Facebook</a> & <a href="https://twitter.com/altisrpfr" target="new">Twitter</a> - Community Management 
+                    </ul>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/phones.png" alt="">
+                    <img class="img-responsive" src="img/code.jpg" alt="">
                 </div>
             </div>
 
@@ -197,6 +202,32 @@
 
     </div>
     <!-- /.content-section-a -->
+    
+        <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Contact</h2>
+                    <p class="lead">Disponible aussi bien sur les réseaux sociaux que par mail et par téléphone.</p>
+                    <br />
+                   Adresse Mail : <a href="mailto:tom.dufosse.michelangeli@gmail.com">tom.dufosse.michelangeli@gmail.com</a>
+                    <br />
+                  Téléphone : <a href="callto:0632899791">+33 (0) 6 32 89 97 91</a>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="img/phones.png" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->  
 
 	<a  name="contact"></a>
     <div class="banner">
@@ -244,6 +275,10 @@
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
                             <a href="#services">Services</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="#client">Clients</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>

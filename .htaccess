@@ -1,0 +1,5 @@
+
+AuthUserFile /php/.FpW
+AuthGroupFile /dev/null 
+AuthName "Accés protégé"
+AuthType Basic
